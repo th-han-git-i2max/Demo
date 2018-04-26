@@ -1,0 +1,972 @@
+[
+    [
+        "C:\\Users\\ms\\Demo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524728996437,
+            "changeTime": 1524728996437,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524728996437,
+            "changeTime": 1524728996437,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524728996437,
+            "changeTime": 1524728996437,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "size": 931,
+            "modifiedTime": 1524728996437,
+            "changeTime": 1524728996437,
+            "contentHash": "1cebede46d3a13316b31fa32634337d02ec041f3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524728996437,
+            "changeTime": 1524728996437,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524728996468,
+            "changeTime": 1524728996468,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1524728996437,
+            "changeTime": 1524728996437,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "size": 212,
+            "modifiedTime": 1524728996437,
+            "changeTime": 1524728996437,
+            "contentHash": "1127df11e1d4dc1143865faeaeee6652fd02d347",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 241,
+            "modifiedTime": 1524728996453,
+            "changeTime": 1524728996453,
+            "contentHash": "b345e67d325198de3872f293f667f0f70dc33400",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "size": 12,
+            "modifiedTime": 1524728996453,
+            "changeTime": 1524728996453,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1524728996453,
+            "changeTime": 1524728996453,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "size": 667,
+            "modifiedTime": 1524728996453,
+            "changeTime": 1524728996453,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "size": 70,
+            "modifiedTime": 1524728996468,
+            "changeTime": 1524728996468,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1524728996468,
+            "changeTime": 1524728996468,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "size": 55,
+            "modifiedTime": 1524728996468,
+            "changeTime": 1524728996468,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524730005751,
+            "changeTime": 1524730005751,
+            "contentHash": "f617ce545c0b58e16678677b7736c52f27fdf9cd"
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 481,
+            "modifiedTime": 1524728996468,
+            "changeTime": 1524728996468,
+            "contentHash": "e894b0cbcdd101d07b172f66a76d7b660e2927ba",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18281,
+            "modifiedTime": 1524728996468,
+            "changeTime": 1524728996468,
+            "contentHash": "071de7905625995a90844fe675bb7a4e0b51f036",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4781,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "951ddcc27a5ef5792fdf44def2e17b007c59dbab",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4781,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "951ddcc27a5ef5792fdf44def2e17b007c59dbab",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5131,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "8d4ca1ce9f4e7a1eba830d17e005eba2e8647cca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "size": 315,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "71205ef8a0434115f4997f3fcdf0a3977bbb041c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524729582124,
+            "changeTime": 1524729582124,
+            "contentHash": "8bfc6131607f24313b4dc7415efd0b72eeb1f8d5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524729470718,
+            "changeTime": 1524729470718,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524729453269,
+            "changeTime": 1524729453269,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524729453332,
+            "changeTime": 1524729453332,
+            "contentHash": "23dc5dce7c50ee5d687a95170c9787e18f8751d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524729453300,
+            "changeTime": 1524729453300,
+            "contentHash": "2f23212b50a83c6f1bd3b906c82b2cbaaceee0ff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524729453316,
+            "changeTime": 1524729453316,
+            "contentHash": "b199bee8ee4e4bc30bb7c1f8f8a231b5e91844e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt",
+            "isDirectory": false,
+            "size": 156,
+            "modifiedTime": 1524729453300,
+            "changeTime": 1524729453300,
+            "contentHash": "fc2433a634f223435a01da80934238039f724b21",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1524729453316,
+            "changeTime": 1524729453316,
+            "contentHash": "1f2b0cd4e0e6ddfc20d058aa07bf3cfea7480835",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\Storage",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\Storage",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524729453269,
+            "changeTime": 1524729453269,
+            "contentHash": "2a5d896e5ac922b48d10f041aa82a83416412050",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp",
+            "isDirectory": false,
+            "size": 917,
+            "modifiedTime": 1524729453269,
+            "changeTime": 1524729453269,
+            "contentHash": "6aabf819a1e1b796bfcdd5602e5d72994b00ac1c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1524729453285,
+            "changeTime": 1524729453285,
+            "contentHash": "67ed1f5733b1ce65f40dc2cd4dc35a8bd63a6b3c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524729453300,
+            "changeTime": 1524729453300,
+            "contentHash": "55427221cf793ceb19d5da9d90a7d8a473859018",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp",
+            "isDirectory": false,
+            "size": 5483,
+            "modifiedTime": 1524729453285,
+            "changeTime": 1524729453285,
+            "contentHash": "2e432c4f45ae25d2ffe0f8550edaa136ce33cd72",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1524729453285,
+            "changeTime": 1524729453285,
+            "contentHash": "1f2b0cd4e0e6ddfc20d058aa07bf3cfea7480835",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
+            "isDirectory": false,
+            "size": 1298,
+            "modifiedTime": 1524729453285,
+            "changeTime": 1524729453285,
+            "contentHash": "9d4109cc3aae80ee9285d82fd779c81adf4f07a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.design",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.design",
+            "isDirectory": false,
+            "size": 346,
+            "modifiedTime": 1524729453285,
+            "changeTime": 1524729453285,
+            "contentHash": "1ab870c096696a3c08082e2416ed2b2f4ebbf4d1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.svg",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.svg",
+            "isDirectory": false,
+            "size": 1021,
+            "modifiedTime": 1524729453285,
+            "changeTime": 1524729453285,
+            "contentHash": "cd1ea0dfa3cf906fdec342699622ed85ed00d1af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoController.js",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoController.js",
+            "isDirectory": false,
+            "size": 1085,
+            "modifiedTime": 1524729453285,
+            "changeTime": 1524729453285,
+            "contentHash": "bf9279ede7dc946bed67264287c14d6108974cf7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoHelper.js",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoHelper.js",
+            "isDirectory": false,
+            "size": 5924,
+            "modifiedTime": 1524729453300,
+            "changeTime": 1524729453300,
+            "contentHash": "84ba6ce9a3e20fbcb0e9f55545eb1e6d13bee40d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoRenderer.js",
+            "isDirectory": false,
+            "size": 738,
+            "modifiedTime": 1524729453300,
+            "changeTime": 1524729453300,
+            "contentHash": "d665b7d29b11f2eb8c02b6373c06e47346705312",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpService",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpService",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524729453300,
+            "changeTime": 1524729453300,
+            "contentHash": "d47e5e9de70c9305eaef7db09904879e88538027",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp",
+            "isDirectory": false,
+            "size": 832,
+            "modifiedTime": 1524729453300,
+            "changeTime": 1524729453300,
+            "contentHash": "fae52a427064a301ace9fc689e9cf859b1de43e6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1524729453300,
+            "changeTime": 1524729453300,
+            "contentHash": "20374ea20c0da58fb533b70b688c82384c590c03",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceController.js",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceController.js",
+            "isDirectory": false,
+            "size": 213,
+            "modifiedTime": 1524729453300,
+            "changeTime": 1524729453300,
+            "contentHash": "82df0e7b416e9a9a797701c72b510d71d8909b80",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceHelper.js",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceHelper.js",
+            "isDirectory": false,
+            "size": 2042,
+            "modifiedTime": 1524729453300,
+            "changeTime": 1524729453300,
+            "contentHash": "74d2133713841f14daa33d3c87fdeb29e09b4ca3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524729453332,
+            "changeTime": 1524729453332,
+            "contentHash": "413cc000459baf4a60b8da8b6e618c128d015725",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls",
+            "isDirectory": false,
+            "size": 672,
+            "modifiedTime": 1524729453316,
+            "changeTime": 1524729453316,
+            "contentHash": "de1151d4a6d414d95b7bea943be4d2406363ff54",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1524729453316,
+            "changeTime": 1524729453316,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls",
+            "isDirectory": false,
+            "size": 829,
+            "modifiedTime": 1524729453316,
+            "changeTime": 1524729453316,
+            "contentHash": "854a69c44213389336401c045649d80bd0cb59c4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1524729453316,
+            "changeTime": 1524729453316,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls",
+            "isDirectory": false,
+            "size": 1061,
+            "modifiedTime": 1524729453316,
+            "changeTime": 1524729453316,
+            "contentHash": "b948c3afe75b12d147b48bd2e22496000622a4ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1524729453332,
+            "changeTime": 1524729453332,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls",
+            "isDirectory": false,
+            "size": 1143,
+            "modifiedTime": 1524729453332,
+            "changeTime": 1524729453332,
+            "contentHash": "648d69af87ee21de3e02c7927702ad1c425a60c5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1524729453332,
+            "changeTime": 1524729453332,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524729453332,
+            "changeTime": 1524729453332,
+            "contentHash": "953a648bdddc5b63ac59255b53b662d2e89d3a89",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings\\YelpApp.remoteSite-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings\\YelpApp.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 274,
+            "modifiedTime": 1524729453332,
+            "changeTime": 1524729453332,
+            "contentHash": "a0ad435300a759ecf99cdd0add238f95edc395e4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524729453332,
+            "changeTime": 1524729453332,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource",
+            "isDirectory": false,
+            "size": 242945,
+            "modifiedTime": 1524729453332,
+            "changeTime": 1524729453332,
+            "contentHash": "5575820f24c0d7a9a1ad445847ba728dde6be3bc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ms\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1524729453332,
+            "changeTime": 1524729453332,
+            "contentHash": "aa85ab19e7ac0f4c7ee86646e20a759ac6219897",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6571,
+            "modifiedTime": 1524730005751,
+            "changeTime": 1524730005751,
+            "contentHash": "bf6b3223e81baf11156f574c49b181768fe7c596"
+        }
+    ]
+]

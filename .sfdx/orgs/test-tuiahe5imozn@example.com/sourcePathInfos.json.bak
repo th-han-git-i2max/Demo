@@ -1,0 +1,392 @@
+[
+    [
+        "C:\\Users\\ms\\Demo\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524728996437,
+            "changeTime": 1524728996437,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524728996437,
+            "changeTime": 1524728996437,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524728996437,
+            "changeTime": 1524728996437,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 931,
+            "modifiedTime": 1524728996437,
+            "changeTime": 1524728996437,
+            "contentHash": "1cebede46d3a13316b31fa32634337d02ec041f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524728996437,
+            "changeTime": 1524728996437,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524728996468,
+            "changeTime": 1524728996468,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1524728996437,
+            "changeTime": 1524728996437,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 212,
+            "modifiedTime": 1524728996437,
+            "changeTime": 1524728996437,
+            "contentHash": "1127df11e1d4dc1143865faeaeee6652fd02d347",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1524728996453,
+            "changeTime": 1524728996453,
+            "contentHash": "b345e67d325198de3872f293f667f0f70dc33400",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12,
+            "modifiedTime": 1524728996453,
+            "changeTime": 1524728996453,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1524728996453,
+            "changeTime": 1524728996453,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1524728996453,
+            "changeTime": 1524728996453,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1524728996468,
+            "changeTime": 1524728996468,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1524728996468,
+            "changeTime": 1524728996468,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1524728996468,
+            "changeTime": 1524728996468,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524728996468,
+            "changeTime": 1524728996468,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 481,
+            "modifiedTime": 1524728996468,
+            "changeTime": 1524728996468,
+            "contentHash": "e894b0cbcdd101d07b172f66a76d7b660e2927ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18281,
+            "modifiedTime": 1524728996468,
+            "changeTime": 1524728996468,
+            "contentHash": "071de7905625995a90844fe675bb7a4e0b51f036",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4781,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "951ddcc27a5ef5792fdf44def2e17b007c59dbab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4781,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "951ddcc27a5ef5792fdf44def2e17b007c59dbab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5131,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "8d4ca1ce9f4e7a1eba830d17e005eba2e8647cca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 315,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "71205ef8a0434115f4997f3fcdf0a3977bbb041c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ms\\Demo",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ms\\Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524728996484,
+            "changeTime": 1524728996484,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
